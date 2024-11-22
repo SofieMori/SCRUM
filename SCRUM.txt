@@ -1,0 +1,23 @@
+Scrum - O que é?
+
+Scrum é uma metodologia ágil de gestão que ajuda equipes a se organizarem 
+e atingirem objetivos de forma colaborativa. As principais etapas incluem:
+
+1 - Product Backlog: Lista de tarefas priorizadas para o produto.
+
+2 - Sprint Planning: Reunião para definir as tarefas do próximo sprint.
+
+3 - Sprint: Período fixo (1 a 4 semanas) para trabalhar nas tarefas.
+
+4 - Daily Scrum: Reuniões rápidas diárias para atualização de status e 
+identificação de bloqueios.
+
+5 - Sprint Review: Apresentação do trabalho concluído e coleta de feedback.
+
+6 - Sprint Retrospective: Análise do sprint para melhorar o processo.
+
+7 - Incremento: Entrega de uma versão funcional do produto.
+
+O Scrum utiliza o Kanban como ferramenta visual, organizando o 
+trabalho em quadros com colunas como "A Fazer", "Em Progresso" e "Feito", 
+para facilitar o acompanhamento das tarefas.
